@@ -1,5 +1,2 @@
 # example
-example repo for ECRI course
-
-yayyy
-but ooo there was a typo hahahihi
+example repo for ECRI courses and SPC lectures
